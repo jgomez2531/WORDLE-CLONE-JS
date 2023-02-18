@@ -1,7 +1,7 @@
 # Wordle - Clon con JS
 Clon del mítico juego Wordle en JS
 
-![Grabación-de-pantalla-2023-02-18-a-las-17 06 10](https://user-images.githubusercontent.com/76822966/219876200-24274275-0958-442d-ae78-47ca32c0b0d8.gif)
+![Grabación-de-pantalla-2023-02-18-a-las-17 06 10](https://user-images.githubusercontent.com/76822966/219876200-24274275-0958-442d-ae78-47ca32c0b0d8.gif | width=100)
 
 
  ## Tecnologías:
